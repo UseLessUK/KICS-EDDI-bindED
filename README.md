@@ -43,6 +43,7 @@ The profile now has some options to start some 3rd party apps such as CMDRs Tool
 	• [EDDI](https://github.com/EDCD/EDDI) being installed as a plugin in VA
 
 3. **This is a work in progress, so it will be updated.**
+
 	• Note: Work on this has been stopped for now, real life kind of got in the way along with working on the EliteVA profile.
 
 4. If you have any feature requests then let me know.
