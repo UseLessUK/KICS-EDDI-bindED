@@ -37,6 +37,7 @@ The profile now has some options to start some 3rd party apps such as CMDRs Tool
 	• Click the Spanner (Wrench) icon on the lower right of the VA main window, make the General tab active and check (tick) `Enable Plugin Support` on the right and then click OK. You'll need to restart VA.
 
 2. This VA profile will **NOT** work without both the following plugins;
+
 	• [bindED](https://github.com/alterNERDtive/bindED) being installed as a plugin in VA
 	• [EDDI](https://github.com/EDCD/EDDI) being installed as a plugin in VA
 
